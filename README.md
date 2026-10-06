@@ -1,8 +1,8 @@
 # Local AI Chatbot
-
-https://baljithk2004-hash.github.io/local-ai-chatbot/
  
 A lightweight browser-based chatbot interface for locally running AI models using Ollama.
+
+https://baljithk2004-hash.github.io/local-ai-chatbot/
  
 ## Features
  
